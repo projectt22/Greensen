@@ -1,0 +1,15 @@
+/*
+Theme Name:   Green Century
+Theme URI:    https://newmedia.com
+Description:  Custom theme for Green Century
+Author:       NEWMEDIA
+Author URI:   https://newmedia.com
+Template:     twentytwentythree
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  greencent
+*/
+body.home h1 {
+  display: none;
+}
